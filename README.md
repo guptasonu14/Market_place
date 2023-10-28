@@ -19,5 +19,27 @@ Location Feature
 Rating & Review feature 
 Payment feature
 
-ScreenShot:
+Getting Started
+
+Prerequisites
+
+Before you begin, ensure you have the following prerequisites:
+
+->Node.js installed ->npm or Yarn package manager ->React Native CLI installed
+
+Installation
+
+Clone the repository:
+git clone https://github.com/tsering651/TaskManagerApplication.git
+
+Navigate to the project directory:
+cd TaskManagarApp
+
+Install project dependencies:
+
+npm install
+
+Run the app on an emulator or physical device:
+
+npx react-native run-android or expo start
 
