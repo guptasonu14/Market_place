@@ -30,7 +30,7 @@ Before you begin, ensure you have the following prerequisites:
 Installation
 
 Clone the repository:
-git clone https://github.com/tsering651/TaskManagerApplication.git
+git clone https://github.com/guptasonu14/Market_place.git
 
 Navigate to the project directory:
 cd TaskManagarApp
